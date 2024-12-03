@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MarcyDeAlmeida
+- 👋 Hi, I’m @MaeDeAlmeida
 - 👀 I’m interested in level and combat design
 - 🌱 I’m currently learning level design in unreal engine
 - 💞️ I’m looking to collaborate! 
-- 📫 How to reach me marcelinedealmeida@gmail.com
+- 📫 How to reach me 
 
 <!---
 MarcyDeAlmeida/MarcyDeAlmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
